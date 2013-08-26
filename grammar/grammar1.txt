@@ -1,0 +1,8 @@
+E->T Z 
+Z->+ T Z 
+T->F Y 
+Y->* F Y 
+F->( E ) 
+F->i 
+Z->e
+Y->e

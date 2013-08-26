@@ -1,0 +1,6 @@
+I -> S
+S -> i E t S Z
+S -> a
+Z -> c S
+Z -> e
+E -> b

@@ -1,0 +1,12 @@
+A -> B C D E
+A -> e
+B -> x
+B -> y
+B -> e
+C -> z
+C -> h
+C -> e
+D -> k
+D -> e
+E -> m
+E-> n
