@@ -32,3 +32,13 @@
 	<img src="https://dl.dropboxusercontent.com/u/109288873/LR0.png">
 </p>
 
+<p>
+	<h4> contributors: <h4>
+  <ul>
+    <li> Abhinav (abhinavkashyap92@gmail.com) </li>
+    <li> Bhuvan (bhuvanlive@gmail.com) </li>
+    <li> Krishna (krishnar28ja@gmail.com)</li>
+    <li> Venkatesh (nvnvenki@gmail.com)</li>
+    <li> Pravardhan (pravardhan.kambagi@gmail.com) </li>
+  </ul>
+</p>
