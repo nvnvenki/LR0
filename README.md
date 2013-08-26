@@ -1,4 +1,3 @@
-
 <h1>LR0 Prasing tool</h1>
 <hr>
 
@@ -27,7 +26,7 @@
 	
 	language used: python 2.7 and PyQt4 frame work.
 	<h3>To execute </h3>
-	<b>$ python Gui_mai.py</b>
+	<b>$ python Gui_main.py</b>
 	<hr>
 	<h2> Tool </h2>
 	<img src="https://dl.dropboxusercontent.com/u/109288873/LR0.png">
